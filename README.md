@@ -1,2 +1,2 @@
-# react_ex6
+# reactEx
 Created with CodeSandbox
